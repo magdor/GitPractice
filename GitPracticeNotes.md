@@ -11,3 +11,5 @@
 1. **git commit -m "message here"** do this all within command line.
 1. **git push -u origin master** push your changes to GitHub. You will be prompted for your GitHub username and password the first time.
 1. **git commit -a -m "message here"** the flag here is to add, so you don't have to do it separately again. it's combined within the commit.
+1. [this is the link to markdown info](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [this is the link to Jen Tang's presentation](https://github.com/jentang/GitDRI)
