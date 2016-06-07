@@ -6,3 +6,4 @@
 1. **Markdown** : how to format text quickly and lightweight manner--more sustainable and transferrable, so you decrease the risk of losing important formatting.
 1. Type **git** into command line to start interacting with it
 1. **git status** checking in the command line where things are in version control.
+1. **git commit** to log this version with git.
