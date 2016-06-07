@@ -14,3 +14,4 @@
 1. [this is the link to markdown info](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. [this is the link to Jen Tang's presentation](https://github.com/jentang/GitDRI)
 1. **`git clone`** copying a repository and making a local copy onto your computer. Don't do it inside your own repository, but put it elsewhere. `git clone LINK`. `git clone https://github.com/jentang/GitDRI/`
+1. **`git pull [URL of respository]`** pull in changes that have been made on GitHub into our local copy. This is helpful/needed when you're working collaboratively, and someone else has been making changes to the remote copies.
